@@ -1,6 +1,6 @@
 ## Hi there 👋, Im Mahshid
 <ul>
-  <li>Front End
+  <li>Front End:
     <ul>
       <li>Html</li>
     </ul>
@@ -11,7 +11,7 @@
 </ul>
 
 <ul>
-  <li>Back End
+  <li>Back End:
     <ul>
       <li>C</li>
     </ul>
