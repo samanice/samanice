@@ -1,4 +1,15 @@
 ## Hi there 👋
+<ul>
+  <li>Front End
+    <ul>
+      <li>Html</li>
+    </ul>
+    <ul>
+     <li>Css</li>
+    </ul>
+    
+  </li>
+</ul>
 
 ## My Activity:
 <img src="https://github-readme-stats.vercel.app/api?username=samanice&show_icons=true&theme=radical"/>
