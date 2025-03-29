@@ -1,8 +1,5 @@
 # Who Am I ?👩🏻‍💻
-## Hello there,I'm Mahshid👋🏻   
-### I'm a Junior Front Developer.
-
-
+## Hello there,I'm Mahshid👋🏻.I'm a Junior Front Developer.
 
 <ul>
   <li>Front End:
@@ -41,4 +38,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
 
 ## 🚀My GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=samanice&show_icons=true&theme=radical"/>   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanice&hide_progress=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samanice&show_icons=true&theme=radical"/>  <br/> <br/> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanice&hide_progress=true"/>
