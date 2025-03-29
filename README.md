@@ -1,7 +1,5 @@
 # Who Am I ?👩🏻‍💻
 
-
-## Hi there 👋, Im Mahshid
 <ul>
   <li>Front End:
     <ul>
