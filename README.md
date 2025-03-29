@@ -1,6 +1,6 @@
 # Who Am I ?👩🏻‍💻
-## Hello there,Im Mahshid👋🏻   
-### I'm a Junior Front developer.
+## Hello there,I'm Mahshid👋🏻   
+### I'm a Junior Front Developer.
 
 
 
