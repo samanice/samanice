@@ -23,6 +23,13 @@
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Operating System:
+    <ul>
+      <li>Linux(Ubuntu)</li>
+    </ul>
+  </li>
+</ul>
 
 ## 🚀My Activity:
 <img src="https://github-readme-stats.vercel.app/api?username=samanice&show_icons=true&theme=radical"/>
