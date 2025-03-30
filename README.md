@@ -11,7 +11,6 @@
     </ul>
   </li>
 </ul>
-
 <ul>
   <li>Back End:
     <ul>
@@ -25,11 +24,13 @@
 <ul>
   <li>Operating System:
     <ul>
-      <li>Linux(Ubuntu)</li>
-    </ul>
+      <li>Linux(Ubuntu)
+      </li>
+  </ul>
     <li>Learning:
     <ul>
-      <li>JS</li>
+      <li>JS
+      </li>
     </ul>
   </li>
 </ul>
